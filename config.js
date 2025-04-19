@@ -1,12 +1,12 @@
 window.Config = {
 
   // 显示标题
-  SiteName: 'Uptime-status',
+  SiteName: 'Services Status',
 
   // UptimeRobot Api Keys
   // 支持 Monitor-Specific 和 Read-Only
   ApiKeys: [
-    'ur2671488-fb491a80091166a48bc66b17',
+    'ur2822193-a62f0194c6f004f44686f6bb',
     //'m797638073-924f5efed86446cce1c95ae1', // 周润发的博客 API key
     //'m797713213-1c83620d56db599960ad0244', // 周润发的公益订阅 API key
     //'m797713331-835664f191b589688f122e00', // 周润发的公益订阅器 API key
@@ -22,15 +22,11 @@ window.Config = {
   Navi: [
     {
       text: '主页',
-      url: 'https://uptime.001315.xyz/'
+      url: 'https://bousai.cn/'
     },    
     {
       text: 'GitHub',
-      url: 'https://github.com/shaoyouvip/uptime/'
-    },
-    {
-      text: '博客',
-      url: 'https://blog.aizrf.COM/'
+      url: 'https://github.com/realcodestudio/uptime/'
     },
   ],
 };
